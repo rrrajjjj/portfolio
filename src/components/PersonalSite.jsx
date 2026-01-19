@@ -103,7 +103,7 @@ export default function PersonalSite() {
               </strong>{" "}
               and the study of gene
               regulatory networks in rice roots. Speaking of roots, gene
-              descends from the Proto-Indo-European <em>ǵenh₁</em>, and so does
+              descends from the Proto-Indo-European <em>*gene-</em>, and so does
               genre. How genres evolve was the crux of my next academic
               inquiry, where we modeled the{" "}
               <strong className="font-semibold text-slate-900">
