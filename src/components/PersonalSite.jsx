@@ -5,6 +5,7 @@ import latentLearningImg from "../img/latent-learning.png";
 import representationsImg from "../img/representations.png";
 import evolMusicImg from "../img/evol-music.png";
 import soloBassImg from "../img/solo-bass.png";
+import historyDlImg from "../img/history-dl.png";
 
 export default function PersonalSite() {
   return (
@@ -223,6 +224,18 @@ export default function PersonalSite() {
                       {
                         label: "Presentation",
                         href: "https://youtu.be/W_6oMSJZHE8",
+                      },
+                    ],
+                  },
+                  {
+                    title: "History of Deep Learning",
+                    image: historyDlImg,
+                    description:
+                      "A visual timeline and overview of key milestones and ideas in deep learning.",
+                    links: [
+                      {
+                        label: "Presentation",
+                        href: "https://www.canva.com/design/DAFSZ_8mLGE/mBeBtS0SNkgoSpgjc3eeNQ/view?utm_content=DAFSZ_8mLGE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hadaddcd6d7",
                       },
                     ],
                   },
